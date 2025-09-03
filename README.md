@@ -95,6 +95,12 @@ Each response was analyzed in terms of **accuracy, coherence, fluency, creativit
 
 ---
 
+## Prompt
+
+Write a detailed research-style document titled “Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: ChatGPT, Claude, Bard, Cohere Command, and Meta.” The document should begin with the aim and a description of the experiment, then include an algorithm section of about two pages that explains step by step how the evaluation is conducted, including defining use cases, designing standardized prompts, collecting outputs, applying evaluation criteria such as accuracy, coherence, conciseness, creativity, and user experience, scoring each platform, and analyzing results. Following this, generate a comprehensive output report of about five to seven pages that introduces the importance of prompting tools, explains the methodology, compares the five platforms on two use cases (summarization and technical Q&A), presents findings in both descriptive form and a results table, and discusses observations highlighting strengths, weaknesses, and platform-specific advantages. Conclude with a clear summary of which tools perform best in different contexts and provide final recommendations. The tone should be academic and structured, with clear headings and subheadings, and the overall length should be around seven to nine pages.
+
+---
+
 ## Output 
 
 ### 1. Introduction
